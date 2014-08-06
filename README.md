@@ -41,3 +41,8 @@ This project may be submitted as a contribution to the LaTeX `listings` package
 in the future. To ensure a seamless transition, this software is licensed under
 the [LaTeX Project Public License 1.3c or later](http://www.latex-project.org/lppl.txt).
 
+## Disclaimer
+
+This project is not affiliated with, supported by, or endorsed by Campbell
+Scientific, Inc., the makers of CRBasic.
+
