@@ -35,3 +35,9 @@ by CRBasic Editor. Some known differences (non-exhaustive):
 - Not all keywords are recognized
 - Some odd highlighting may occur inside comments
 
+## License
+
+This project may be submitted as a contribution to the LaTeX `listings` package
+in the future. To ensure a seamless transition, this software is licensed under
+the [LaTeX Project Public License 1.3c or later](http://www.latex-project.org/lppl.txt).
+
